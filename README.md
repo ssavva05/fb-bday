@@ -26,3 +26,7 @@ Yeah - I'm too lazy to remember to visit fbook daily…AND I think wishing old a
 	ruby birthday.rb
 
 ####MIT License
+
+&
+Older
+https://galpotha.wordpress.com/2010/07/04/the-loser%E2%80%99s-script-how-to-wish-facebook-friends-on-their-birthdays-automatically-in-linux/
